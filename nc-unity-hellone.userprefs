@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraFocusController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraFocusController.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/OpenUrlNhancv.cs" Line="5" Column="21" />
+      <File FileName="Assets/Scripts/OpenUrlBss.cs" Line="5" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
